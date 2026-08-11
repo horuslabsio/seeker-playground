@@ -2,20 +2,21 @@
   "expo": {
     "name": "Chainrails Playground",
     "slug": "chainrailsplayground",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "chainrailsplayground",
     "userInterfaceStyle": "automatic",
     "ios": {
-          "icon": "./assets/expo.icon",
-          "bundleIdentifier": "com.chainrails.playground",
-          "buildNumber": "1"
-        },
+      "icon": "./assets/expo.icon",
+      "bundleIdentifier": "com.chainrails.playground",
+      "buildNumber": "2"
+    },
     "android": {
-          "package": "com.chainrails.playground",
-          "versionCode": 1,
-          "newArchEnabled": true,
+      "package": "com.chainrails.playground",
+      "versionCode": 2,
+      "versionName": "1.0.2",
+      "newArchEnabled": true,
       "adaptiveIcon": {
         "backgroundColor": "#BBEDE9",
         "foregroundImage": "./assets/images/android-icon-foreground.png",
